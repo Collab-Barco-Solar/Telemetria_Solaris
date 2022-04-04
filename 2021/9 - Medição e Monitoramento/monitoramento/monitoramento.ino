@@ -3,7 +3,7 @@
 |  Sistema de aquisição de dados da embarcação Solaris
 |  Autor: Luciano Resende Dias
 |  Data: 20/12/2021
-|
+|.
 |
 */
 
