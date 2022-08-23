@@ -48,18 +48,6 @@ IPAddress WifiSubnet    (255, 255, 255, 0);
 //IPAddress WifiDNS       (192, 168, 43, 1);
 //IPAddress WifiSubnet    (255, 255, 255, 0);
 
-//Rede de Casa
-//const char* SSID     = "FOGUETE";            //SSID - nome da rede WI-FI que deseja se conectar
-//const char* PASSWORD = "insert45";           //Senha da rede WI-FI que deseja se conectar
-
-
-//Configurações de rede do wifi casa para o esp32
-//IPAddress WifiIP        (192, 168, 1, 110);
-//IPAddress WifiGateway   (192, 168, 1, 1);
-//IPAddress WifiDNS       (192, 168, 1, 1);
-//IPAddress WifiSubnet    (255, 255, 255, 0);
-
-
 AsyncWebServer server(80);                          //Porta de comunicação do WebServer
 
 //Função que inicia o cartão SD
